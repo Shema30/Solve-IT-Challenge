@@ -1,0 +1,38 @@
+/** Write your css styles below this comment */
+
+body {
+  text-align: center;
+    background-color: #406882;
+}
+form {
+    background-color: #1A374D;
+    padding: 20px;
+    border: 2px solid #ccc;
+  }
+  
+  label, input[type="text"], button {
+    margin: 20px 0;
+  }
+  
+  label {
+    color: white;
+    font-weight: bold;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #D67D3E;
+    color: white;
+    padding: 10px 20px;
+    border: 5px solid gray;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
